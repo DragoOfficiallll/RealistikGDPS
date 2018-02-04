@@ -1,0 +1,10 @@
+Servers: RealistikDash
+Textures: Oxy/Headwind
+Font: RealistikDash
+EXE Icon: TheRealCed
+Texture Pack: RealistikDash
+Practice Mode Music: BurgeraX - Scorpion (suggested by RealistikDash)
+Main Menu Song: Panda Eyes - On My Own (suggested by VertuoZ)
+EXE modifications: RealistikDash
+Servers: RealistikDash
+Mod Badges: DragunUnicorn
